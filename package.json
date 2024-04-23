@@ -2,7 +2,7 @@
   "name": "driver-c.js",
   "license": "MIT",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/driver-c.js.cjs",
   "module": "./dist/driver-c.js.mjs",
   "types": "./dist/driver-c.js.d.ts",
